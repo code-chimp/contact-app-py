@@ -1,0 +1,24 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "alpinejs@3.13.5",
+      "destination": "static/js/alpinejs"
+    },
+    {
+      "library": "htmx@1.9.10",
+      "destination": "static/js/htmx"
+    },
+    {
+      "provider": "unpkg",
+      "library": "hyperscript.org@0.9.12",
+      "destination": "static/js/hyperscript.org"
+    },
+    {
+      "provider": "unpkg",
+      "library": "missing.css@1.1.1",
+      "destination": "static/styles/missing.css"
+    }
+  ]
+}
