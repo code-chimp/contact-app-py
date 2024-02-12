@@ -346,3 +346,4 @@ cython_debug/
 instance/*
 !instance/.gitignore
 
+!/static/**/dist/
